@@ -1,0 +1,45 @@
+body {
+  background-image: url("lakeLouise.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+  align-content: center;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+form {
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 20px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  /* background:white; */
+  width: 400px;
+  height: 600px;
+  align-content: center;
+  text-align: center;
+  /* margin: 30px; */
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+form select{
+  margin: auto;
+}
+form h2 {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+  
+
